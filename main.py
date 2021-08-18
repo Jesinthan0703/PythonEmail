@@ -21,28 +21,8 @@ html_content = '''<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     <meta name="x-apple-disable-message-reformatting" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta content="telephone=no" name="format-detection" />
-    <title>New Template</title>
-    <!--[if (mso 16)
-      ]><style type="text/css">
-        a {
-          text-decoration: none;
-        }
-      </style><!
-    [endif]-->
-    <!--[if gte mso 9
-      ]><style>
-        sup {
-          font-size: 100% !important;
-        }
-      </style><!
-    [endif]-->
-    <!--[if gte mso 9
-      ]><xml>
-        <o:OfficeDocumentSettings>
-          <o:AllowPNG></o:AllowPNG> <o:PixelsPerInch>96</o:PixelsPerInch>
-        </o:OfficeDocumentSettings>
-      </xml><!
-    [endif]-->
+    <title>Pattarai</title>
+
     <style type="text/css">
       #outlook a {
         padding: 0;
@@ -61,11 +41,6 @@ html_content = '''<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
         line-height: 100%;
       }
 
-      .es-button {
-        mso-style-priority: 100 !important;
-        text-decoration: none !important;
-      }
-
       a[x-apple-data-detectors] {
         color: inherit !important;
         text-decoration: none !important;
@@ -73,16 +48,6 @@ html_content = '''<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
         font-family: inherit !important;
         font-weight: inherit !important;
         line-height: inherit !important;
-      }
-
-      .es-desk-hidden {
-        display: none;
-        float: left;
-        overflow: hidden;
-        width: 0;
-        max-height: 0;
-        line-height: 0;
-        mso-hide: all;
       }
 
       @media only screen and (max-width: 600px) {
@@ -368,8 +333,8 @@ html_content = '''<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
                   <tr style="border-collapse: collapse">
                     <td
                       align="center"
-                      bgcolor="#fbd80d"
-                      style="padding: 0; margin: 0; background-color: #fbd80d"
+                      bgcolor="#B2FEFA"
+                      style="padding: 0; margin: 0; background-color: #29f8ff"
                     >
                       <table
                         class="es-header-body"
@@ -541,7 +506,7 @@ html_content = '''<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
                                                 "
                                                 ><img
                                                   class="adapt-img"
-                                                  src="https://oiyomk.stripocdn.email/content/guids/CABINET_0df4df06df1e292624be9e46022c3657/images/24901606027130689.jpeg"
+                                                  src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png"
                                                   alt
                                                   style="
                                                     display: block;
@@ -550,7 +515,7 @@ html_content = '''<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
                                                     text-decoration: none;
                                                     -ms-interpolation-mode: bicubic;
                                                   "
-                                                  width="600"
+                                                  width="250"
                                               /></a>
                                             </td>
                                           </tr>
@@ -581,10 +546,9 @@ html_content = '''<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
                                                   letter-spacing: 0px;
                                                 "
                                               >
-                                                We are proud to present you
-                                                Pattarai's very own
-                                                newsletter.<br />Here you go!
-                                                The first issue of&nbsp;
+                                                We are happy for your
+                                                participation in our workshop<br />Here
+                                                you go! PFA Certificate
                                               </h3>
                                             </td>
                                           </tr>
@@ -665,10 +629,10 @@ html_content = '''<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
                                                   font-size: 26px;
                                                   font-style: normal;
                                                   font-weight: bold;
-                                                  color: #fbd80d;
+                                                  color: #29f8ff;
                                                 "
                                               >
-                                                <strong>elevate^now</strong>
+                                                <strong>REACT JS</strong>
                                               </h1>
                                             </td>
                                           </tr>
@@ -757,54 +721,272 @@ html_content = '''<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
                                       "
                                     >
                                       <table
-                                        width="100%"
-                                        cellspacing="0"
                                         cellpadding="0"
-                                        role="presentation"
+                                        cellspacing="0"
+                                        class="es-right"
+                                        align="right"
                                         style="
                                           mso-table-lspace: 0pt;
                                           mso-table-rspace: 0pt;
                                           border-collapse: collapse;
                                           border-spacing: 0px;
+                                          float: right;
                                         "
                                       >
                                         <tbody>
                                           <tr style="border-collapse: collapse">
                                             <td
+                                              valign="top"
                                               align="center"
                                               style="
                                                 padding: 0;
                                                 margin: 0;
-                                                font-size: 0px;
+                                                width: 265px;
                                               "
                                             >
-                                              <a
-                                                target="_blank"
-                                                href="https://www.flipsnack.com/659AF9CC5A8/elevate-now_issue01.html"
+                                              <table
+                                                width="100%"
+                                                cellspacing="0"
+                                                cellpadding="0"
+                                                role="presentation"
                                                 style="
-                                                  -webkit-text-size-adjust: none;
-                                                  -ms-text-size-adjust: none;
-                                                  mso-line-height-rule: exactly;
-                                                  font-family: 'Open Sans',
-                                                    sans-serif;
-                                                  font-size: 14px;
-                                                  text-decoration: none;
-                                                  color: #aeaeaf;
+                                                  mso-table-lspace: 0pt;
+                                                  mso-table-rspace: 0pt;
+                                                  border-collapse: collapse;
+                                                  border-spacing: 0px;
                                                 "
-                                                ><img
-                                                  class="adapt-img b_image"
-                                                  src="https://oiyomk.stripocdn.email/content/guids/CABINET_0df4df06df1e292624be9e46022c3657/images/80781606027312870.jpg"
-                                                  alt="elevate^now"
-                                                  style="
-                                                    display: block;
-                                                    border: 0;
-                                                    outline: none;
-                                                    text-decoration: none;
-                                                    -ms-interpolation-mode: bicubic;
-                                                  "
-                                                  width="285"
-                                                  title="elevate^now"
-                                              /></a>
+                                              >
+                                                <tbody>
+                                                  <tr
+                                                    style="
+                                                      border-collapse: collapse;
+                                                    "
+                                                  >
+                                                  
+                                                  </tr>
+                                                  <tr
+                                                    style="
+                                                      border-collapse: collapse;
+                                                    "
+                                                  >
+                                                    <td
+                                                      align="left"
+                                                      class="es-m-txt-l"
+                                                      style="
+                                                        padding: 0;
+                                                        margin: 0;
+                                                        padding-bottom: 10px;
+                                                      "
+                                                    >
+                                                      <h1
+                                                        class="b_title"
+                                                        style="
+                                                          margin: 0;
+                                                          line-height: 31px;
+                                                          mso-line-height-rule: exactly;
+                                                          font-family: roboto,
+                                                            'helvetica neue',
+                                                            helvetica, arial,
+                                                            sans-serif;
+                                                          font-size: 26px;
+                                                          font-style: normal;
+                                                          font-weight: bold;
+                                                          color: #3c4858;
+                                                        "
+                                                      >
+                                                        Pattarai's Newsletter
+                                                      </h1>
+                                                    </td>
+                                                  </tr>
+                                                  <tr
+                                                    style="
+                                                      border-collapse: collapse;
+                                                    "
+                                                  >
+                                                    <td
+                                                      align="left"
+                                                      style="
+                                                        padding: 0;
+                                                        margin: 0;
+                                                        padding-bottom: 20px;
+                                                      "
+                                                    >
+                                                      <p
+                                                        class="b_description"
+                                                        style="
+                                                          margin: 0;
+                                                          -webkit-text-size-adjust: none;
+                                                          -ms-text-size-adjust: none;
+                                                          mso-line-height-rule: exactly;
+                                                          font-size: 14px;
+                                                          font-family: 'Open Sans',
+                                                            sans-serif;
+                                                          line-height: 21px;
+                                                          color: #8492a6;
+                                                        "
+                                                      >
+                                                        We’ve taken every
+                                                        possible measure to keep
+                                                        it crisp, making sure
+                                                        that you enjoy the next
+                                                        few minutes that you’ll
+                                                        be spending with us. We
+                                                        really value your time
+                                                        and interest in
+                                                        Pattarai.<br /><br />“What
+                                                        problem do you want to
+                                                        solve today?”
+                                                      </p>
+                                                    </td>
+                                                  </tr>
+                                                  <tr
+                                                    style="
+                                                      border-collapse: collapse;
+                                                    "
+                                                  >
+                                                    <td
+                                                      align="left"
+                                                      class="es-m-txt-l"
+                                                      style="
+                                                        padding: 0;
+                                                        margin: 0;
+                                                        padding-bottom: 20px;
+                                                      "
+                                                    >
+                                                      <span
+                                                        class="es-button-border"
+                                                        style="
+                                                          border-style: solid;
+                                                          background: #29f8ff;
+                                                          border-width: 0px;
+                                                          display: inline-block;
+                                                          border-radius: 0px;
+                                                          width: auto;
+                                                        "
+                                                        ><a
+                                                          href="https://drive.google.com/file/d/13uZRBHHaSS5jQ9e9y1r0ECOyhLupGpqT/view?usp=sharing"
+                                                          class="es-button"
+                                                          target="_blank"
+                                                          style="
+                                                            mso-style-priority: 100 !important;
+                                                            text-decoration: none;
+                                                            -webkit-text-size-adjust: none;
+                                                            -ms-text-size-adjust: none;
+                                                            mso-line-height-rule: exactly;
+                                                            font-family: 'Open Sans',
+                                                              sans-serif;
+                                                            font-size: 14px;
+                                                            color: #000000;
+                                                            border-style: solid;
+                                                            border-color: #29f8ff;
+                                                            border-width: 15px
+                                                              30px 15px 30px;
+                                                            display: inline-block;
+                                                            background: #29f8ff;
+                                                            border-radius: 0px;
+                                                            font-weight: bold;
+                                                            font-style: normal;
+                                                            line-height: 17px;
+                                                            width: auto;
+                                                            text-align: center;
+                                                          "
+                                                        >
+                                                          <!--[if !mso]><!-- --><img
+                                                            src="https://oiyomk.stripocdn.email/content/guids/CABINET_0df4df06df1e292624be9e46022c3657/images/91641606061952133.png"
+                                                            alt="icon"
+                                                            width="16"
+                                                            style="
+                                                              display: inline-block;
+                                                              border: 0;
+                                                              outline: none;
+                                                              text-decoration: none;
+                                                              -ms-interpolation-mode: bicubic;
+                                                              vertical-align: middle;
+                                                              margin-right: 10px;
+                                                            "
+                                                            align="absmiddle"
+                                                          />
+                                                          <!--<![endif]-->Get my
+                                                          copy.</a
+                                                        ></span
+                                                      >
+                                                    </td>
+                                                  </tr>
+                                                  <tr
+                                                    style="
+                                                      border-collapse: collapse;
+                                                    "
+                                                  >
+                                                    <td
+                                                      align="left"
+                                                      class="es-m-txt-l"
+                                                      style="
+                                                        padding: 0;
+                                                        margin: 0;
+                                                      "
+                                                    >
+                                                      <span
+                                                        class="es-button-border"
+                                                        style="
+                                                          border-style: solid;
+                                                          border-color: #29f8ff;
+                                                          background: #29f8ff;
+                                                          border-width: 4px;
+                                                          display: inline-block;
+                                                          border-radius: 0px;
+                                                          width: auto;
+                                                        "
+                                                        ><a
+                                                          href="https://www.flipsnack.com/659AF9CC5A8/elevate-now_issue01.html"
+                                                          class="es-button"
+                                                          target="_blank"
+                                                          style="
+                                                            mso-style-priority: 100 !important;
+                                                            text-decoration: none;
+                                                            -webkit-text-size-adjust: none;
+                                                            -ms-text-size-adjust: none;
+                                                            mso-line-height-rule: exactly;
+                                                            font-family: 'Open Sans',
+                                                              sans-serif;
+                                                            font-size: 14px;
+                                                            color: #000000;
+                                                            border-style: solid;
+                                                            border-color: #29f8ff;
+                                                            border-width: 10px
+                                                              30px 10px 20px;
+                                                            display: inline-block;
+                                                            background: #29f8ff;
+                                                            border-radius: 0px;
+                                                            font-weight: bold;
+                                                            font-style: normal;
+                                                            line-height: 17px;
+                                                            width: auto;
+                                                            text-align: center;
+                                                          "
+                                                        >
+                                                          <!--[if !mso]><!-- --><img
+                                                            src="https://oiyomk.stripocdn.email/content/guids/CABINET_0df4df06df1e292624be9e46022c3657/images/94251606062466641.png"
+                                                            alt="icon"
+                                                            width="20"
+                                                            style="
+                                                              display: inline-block;
+                                                              border: 0;
+                                                              outline: none;
+                                                              text-decoration: none;
+                                                              -ms-interpolation-mode: bicubic;
+                                                              vertical-align: middle;
+                                                              margin-right: 12px;
+                                                            "
+                                                            align="absmiddle"
+                                                          />
+                                                          <!--<![endif]-->Read
+                                                          Online</a
+                                                        ></span
+                                                      >
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
                                             </td>
                                           </tr>
                                         </tbody>
@@ -858,24 +1040,7 @@ html_content = '''<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
                                               class="es-m-txt-l"
                                               style="padding: 0; margin: 0"
                                             >
-                                              <h3
-                                                style="
-                                                  margin: 0;
-                                                  line-height: 19px;
-                                                  mso-line-height-rule: exactly;
-                                                  font-family: roboto,
-                                                    'helvetica neue', helvetica,
-                                                    arial, sans-serif;
-                                                  font-size: 16px;
-                                                  font-style: normal;
-                                                  font-weight: bold;
-                                                  color: #999999;
-                                                  letter-spacing: 0px;
-                                                "
-                                                class="b_category"
-                                              >
-                                                POSTED ON NOV 23, 2020
-                                              </h3>
+                                          
                                             </td>
                                           </tr>
                                           <tr style="border-collapse: collapse">
@@ -888,58 +1053,26 @@ html_content = '''<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
                                                 padding-bottom: 10px;
                                               "
                                             >
-                                              <h1
-                                                class="b_title"
-                                                style="
-                                                  margin: 0;
-                                                  line-height: 31px;
-                                                  mso-line-height-rule: exactly;
-                                                  font-family: roboto,
-                                                    'helvetica neue', helvetica,
-                                                    arial, sans-serif;
-                                                  font-size: 26px;
-                                                  font-style: normal;
-                                                  font-weight: bold;
-                                                  color: #3c4858;
-                                                "
-                                              >
-                                                Pattarai's Newsletter
-                                              </h1>
+                                         
                                             </td>
                                           </tr>
                                           <tr style="border-collapse: collapse">
                                             <td
-                                              align="left"
+                                              align="center"
                                               style="
                                                 padding: 0;
                                                 margin: 0;
-                                                padding-bottom: 20px;
+                                                padding-bottom: 0px;
                                               "
                                             >
-                                              <p
+                                              <img
                                                 class="b_description"
-                                                style="
-                                                  margin: 0;
-                                                  -webkit-text-size-adjust: none;
-                                                  -ms-text-size-adjust: none;
-                                                  mso-line-height-rule: exactly;
-                                                  font-size: 14px;
-                                                  font-family: 'Open Sans',
-                                                    sans-serif;
-                                                  line-height: 21px;
-                                                  color: #8492a6;
-                                                "
+                                                src="https://media.giphy.com/media/XwBvCUCZw5mU4Mdlw7/giphy.gif"
+                                              
+                                               width="250"
+                                               height="250"
                                               >
-                                                We’ve taken every possible
-                                                measure to keep it crisp, making
-                                                sure that you enjoy the next few
-                                                minutes that you’ll be spending
-                                                with us. We really value your
-                                                time and interest in
-                                                Pattarai.<br /><br />“What
-                                                problem do you want to solve
-                                                today?”
-                                              </p>
+                                               
                                             </td>
                                           </tr>
                                           <tr style="border-collapse: collapse">
@@ -952,130 +1085,10 @@ html_content = '''<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
                                                 padding-bottom: 20px;
                                               "
                                             >
-                                              <span
-                                                class="es-button-border"
-                                                style="
-                                                  border-style: solid;
-                                                  background: #fbd80d;
-                                                  border-width: 0px;
-                                                  display: inline-block;
-                                                  border-radius: 0px;
-                                                  width: auto;
-                                                "
-                                                ><a
-                                                  href="https://drive.google.com/file/d/13uZRBHHaSS5jQ9e9y1r0ECOyhLupGpqT/view?usp=sharing"
-                                                  class="es-button"
-                                                  target="_blank"
-                                                  style="
-                                                    mso-style-priority: 100 !important;
-                                                    text-decoration: none;
-                                                    -webkit-text-size-adjust: none;
-                                                    -ms-text-size-adjust: none;
-                                                    mso-line-height-rule: exactly;
-                                                    font-family: 'Open Sans',
-                                                      sans-serif;
-                                                    font-size: 14px;
-                                                    color: #000000;
-                                                    border-style: solid;
-                                                    border-color: #fbd80d;
-                                                    border-width: 15px 30px 15px
-                                                      30px;
-                                                    display: inline-block;
-                                                    background: #fbd80d;
-                                                    border-radius: 0px;
-                                                    font-weight: bold;
-                                                    font-style: normal;
-                                                    line-height: 17px;
-                                                    width: auto;
-                                                    text-align: center;
-                                                  "
-                                                >
-                                                  <!--[if !mso]><!-- --><img
-                                                    src="https://oiyomk.stripocdn.email/content/guids/CABINET_0df4df06df1e292624be9e46022c3657/images/91641606061952133.png"
-                                                    alt="icon"
-                                                    width="16"
-                                                    style="
-                                                      display: inline-block;
-                                                      border: 0;
-                                                      outline: none;
-                                                      text-decoration: none;
-                                                      -ms-interpolation-mode: bicubic;
-                                                      vertical-align: middle;
-                                                      margin-right: 10px;
-                                                    "
-                                                    align="absmiddle"
-                                                  />
-                                                  <!--<![endif]-->Get my
-                                                  copy.</a
-                                                ></span
-                                              >
+                                           
                                             </td>
                                           </tr>
-                                          <tr style="border-collapse: collapse">
-                                            <td
-                                              align="left"
-                                              class="es-m-txt-l"
-                                              style="padding: 0; margin: 0"
-                                            >
-                                              <span
-                                                class="es-button-border"
-                                                style="
-                                                  border-style: solid;
-                                                  border-color: #fbd80d;
-                                                  background: #fbd80d;
-                                                  border-width: 4px;
-                                                  display: inline-block;
-                                                  border-radius: 0px;
-                                                  width: auto;
-                                                "
-                                                ><a
-                                                  href="https://www.flipsnack.com/659AF9CC5A8/elevate-now_issue01.html"
-                                                  class="es-button"
-                                                  target="_blank"
-                                                  style="
-                                                    mso-style-priority: 100 !important;
-                                                    text-decoration: none;
-                                                    -webkit-text-size-adjust: none;
-                                                    -ms-text-size-adjust: none;
-                                                    mso-line-height-rule: exactly;
-                                                    font-family: 'Open Sans',
-                                                      sans-serif;
-                                                    font-size: 14px;
-                                                    color: #000000;
-                                                    border-style: solid;
-                                                    border-color: #fbd80d;
-                                                    border-width: 10px 30px 10px
-                                                      20px;
-                                                    display: inline-block;
-                                                    background: #fbd80d;
-                                                    border-radius: 0px;
-                                                    font-weight: bold;
-                                                    font-style: normal;
-                                                    line-height: 17px;
-                                                    width: auto;
-                                                    text-align: center;
-                                                  "
-                                                >
-                                                  <!--[if !mso]><!-- --><img
-                                                    src="https://oiyomk.stripocdn.email/content/guids/CABINET_0df4df06df1e292624be9e46022c3657/images/94251606062466641.png"
-                                                    alt="icon"
-                                                    width="20"
-                                                    style="
-                                                      display: inline-block;
-                                                      border: 0;
-                                                      outline: none;
-                                                      text-decoration: none;
-                                                      -ms-interpolation-mode: bicubic;
-                                                      vertical-align: middle;
-                                                      margin-right: 12px;
-                                                    "
-                                                    align="absmiddle"
-                                                  />
-                                                  <!--<![endif]-->Read Online</a
-                                                ></span
-                                              >
-                                            </td>
-                                          </tr>
+                                          
                                         </tbody>
                                       </table>
                                     </td>
@@ -1304,7 +1317,7 @@ html_content = '''<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
                                                   color: #ffffff;
                                                 "
                                                 ><img
-                                                  src="https://oiyomk.stripocdn.email/content/guids/CABINET_0df4df06df1e292624be9e46022c3657/images/75971606061825273.png"
+                                                  src="https://i.ibb.co/9qCPJP9/logopurple-bg-dp.jpg"
                                                   alt
                                                   style="
                                                     display: block;
@@ -1421,7 +1434,9 @@ html_content = '''<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
                                               <table
                                                 cellpadding="0"
                                                 cellspacing="0"
-                                                class="es-table-not-adapt es-social"
+                                                class="
+                                                  es-table-not-adapt es-social
+                                                "
                                                 role="presentation"
                                                 style="
                                                   mso-table-lspace: 0pt;
@@ -1598,7 +1613,9 @@ html_content = '''<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
                                               <table
                                                 cellpadding="0"
                                                 cellspacing="0"
-                                                class="es-table-not-adapt es-social"
+                                                class="
+                                                  es-table-not-adapt es-social
+                                                "
                                                 role="presentation"
                                                 style="
                                                   mso-table-lspace: 0pt;
@@ -1858,9 +1875,14 @@ html_content = '''<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
                                         <tbody>
                                           <tr style="border-collapse: collapse">
                                             <td
-                                              align="center"
-                                              style="padding: 0; margin: 0"
-                                            >
+                                      class="es-m-p0r es-m-p20b"
+                                      align="center"
+                                      style="
+                                        padding: 0;
+                                        margin: 0;
+                                        width: 177px;
+                                      "
+                                    >
                                               <span
                                                 class="es-button-border"
                                                 style="
@@ -1925,7 +1947,7 @@ html_content = '''<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
                                 </tbody>
                               </table>
                               <!--[if mso]></td>
-<td style="width:20px"></td><td style="width:176px" valign="top"><![endif]-->
+                                  <td style="width:20px"></td><td style="width:176px" valign="top"><![endif]-->
                               <table
                                 cellpadding="0"
                                 cellspacing="0"
@@ -1947,6 +1969,7 @@ html_content = '''<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
                                         padding: 0;
                                         margin: 0;
                                         width: 176px;
+
                                       "
                                     >
                                       <table
@@ -1964,9 +1987,15 @@ html_content = '''<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
                                         <tbody>
                                           <tr style="border-collapse: collapse">
                                             <td
-                                              align="center"
-                                              style="padding: 0; margin: 0"
-                                            >
+                                            class="es-m-p0r es-m-p20b"
+                                            align="center"
+                                            style="
+                                              padding: 0;
+                                              margin: 0;
+                                              width: 178px;
+                                            "
+                                          >
+                                              
                                               <span
                                                 class="es-button-border"
                                                 style="
@@ -1999,14 +2028,14 @@ html_content = '''<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
                                                     border-radius: 0px;
                                                     font-weight: bold;
                                                     font-style: normal;
-                                                    line-height: 17px;
+                                                    line-height: 5px;
                                                     width: auto;
                                                     text-align: center;
                                                   "
                                                 >
                                                   <!--[if !mso]><!-- --><img
-                                                    src="https://oiyomk.stripocdn.email/content/guids/CABINET_0df4df06df1e292624be9e46022c3657/images/24851606064393066.png"
-                                                    alt="icon"
+                                                  src="https://oiyomk.stripocdn.email/content/guids/CABINET_0df4df06df1e292624be9e46022c3657/images/24851606064393066.png"
+                                                  alt="icon"
                                                     width="16"
                                                     style="
                                                       display: inline-block;
@@ -2015,7 +2044,7 @@ html_content = '''<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
                                                       text-decoration: none;
                                                       -ms-interpolation-mode: bicubic;
                                                       vertical-align: middle;
-                                                      margin-right: 10px;
+                                                      margin-right: 5px;
                                                     "
                                                     align="absmiddle"
                                                   />
@@ -2101,7 +2130,7 @@ html_content = '''<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
                                                   color: #8492a6;
                                                 "
                                               >
-                                                © 2020&nbsp;<a
+                                                © 2021&nbsp;<a
                                                   href="https://pattarai.in/"
                                                   target="_blank"
                                                   style="
@@ -2139,14 +2168,14 @@ html_content = '''<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
       </table>
     </div>
   </body>
-</html>'''
-
+</html>
+'''
 
 df = pd.read_csv('list.csv')
 
 def send_mail(name,r_mail,image):
-    s_mail = "#"
-    s_pass = "#"
+    s_mail = "admin@pattarai.in"
+    s_pass = "licet@123"
     msg=EmailMessage()
     msg['Subject'] = f"Certificate For ReactJS WorkShop"
     msg['From'] = s_mail
@@ -2155,7 +2184,7 @@ def send_mail(name,r_mail,image):
     with open(image,"rb") as file:
         data = file.read()
         msg.add_attachment(data,maintype = "application", subtype = "pdf",filename = name)
-    server = smtplib.SMTP_SSL("smtp.gmail.com",465)
+    server = smtplib.SMTP_SSL("smtp.zoho.in",465)
     try:
         server.login(s_mail,s_pass)
         print("Logged In Successfully")
